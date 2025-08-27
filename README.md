@@ -28,10 +28,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-xi&layout=compact&theme=radical)  
 
 ---
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhishek-xi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
 
 ## 🌐 Languages I Speak  
 ![English](https://img.shields.io/badge/English-007ACC?style=for-the-badge&logo=google-translate&logoColor=white)  
