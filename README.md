@@ -17,6 +17,12 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+### 🗣️ Spoken Languages  
+![English](https://img.shields.io/badge/English-Blue?style=for-the-badge&logo=google-translate&logoColor=white)  
+![Hindi](https://img.shields.io/badge/Hindi-Orange?style=for-the-badge&logo=google-translate&logoColor=white)  
+![Kannada](https://img.shields.io/badge/Kannada-Green?style=for-the-badge&logo=google-translate&logoColor=white)  
+
+---
 
 ### 📌 Featured Projects
 - [Guardian Miner – Mine Surveillance Bot](https://github.com/abhishek-xi/Guardian-Miner---Mine-surveillance-bot)  
