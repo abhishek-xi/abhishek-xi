@@ -20,8 +20,8 @@
 
 ### 📌 Featured Projects
 - [Guardian Miner – Mine Surveillance Bot](https://github.com/abhishek-xi/Guardian-Miner---Mine-surveillance-bot)  
-- Biomedical Monitoring System (ECG, SpO₂, Temp, HR)  
-- Real-time Audio Frequency Analyzer in MATLAB  
+- [Biomedical Monitoring System (ECG, SpO₂, Temp, HR)](https://github.com/abhishek-xi/Connected-Care-An-IoT-based-patient-monitering-system)
+- Real-time Audio Frequency Analyzer in MATLAB
 
 ---
 
