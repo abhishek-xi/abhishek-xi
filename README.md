@@ -8,11 +8,12 @@
 
 ## 🔧 Skills & Tools  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-EDA-blue?style=flat-square&logo=kicad)
+![Robotics](https://img.shields.io/badge/Robotics-AI-blue?style=flat-square&logo=robotframework)
+![Embedded C](https://img.shields.io/badge/Embedded_C-MCU-blue?style=flat-square&logo=c)
+
 
 ---
 
