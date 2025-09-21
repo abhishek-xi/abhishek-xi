@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![KiCad](https://upload.wikimedia.org/wikipedia/commons/4/4e/KiCad_logo.svg) 
+![KiCad](https://img.shields.io/badge/KiCad-EDA-blue?style=flat-square&logo=kicad)
 
 ---
 
