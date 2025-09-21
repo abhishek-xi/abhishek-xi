@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Abhishek
 
 🎓 Third-Year, Electronics & Communication Engineering Student  
-⚡ Passionate about Embedded Systems | IoT | Robotics | Signal Processing  
+⚡ Passionate about Embedded Systems | IoT | Robotics | PCB Designing   
 💡 Exploring real-time applications in ECE and building innovative projects  
 
 ---
@@ -12,14 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
----
-
-## 📌 Projects  
-🔹 [**Guardian Miner**](https://github.com/abhishek-xi/Guardian-Miner---Mine-surveillance-bot) – Mine surveillance bot with sensors, autonomous movement & safety monitoring.  
-🔹 **Biomedical Arduino Project** – Heart rate, SpO2, ECG & temperature monitoring with OLED & telemetry.  
-🔹 **Audio Frequency Analyzer** – Real-time speech signal analyzer (MATLAB/Python App).  
+![KiCad](https://upload.wikimedia.org/wikipedia/commons/4/4e/KiCad_logo.svg) 
 
 ---
 
